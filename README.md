@@ -1,5 +1,7 @@
 # Welcome to the Gitdome
 
+![](gifs/thunderdome.gif)
+
 We are going to test your Git skills by getting you to perform the following tasks, ranging from easy to difficult.
 
 Solo exercises:
