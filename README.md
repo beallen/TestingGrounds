@@ -7,6 +7,8 @@ We are going to test your Git skills by getting you to perform the following tas
 Solo exercises:
 1) Clone into this repository.
 2) Revert your local copy to following commit (*Correct tasks two*).
+![](gifs/takingitback.gif)
+
 3) Revert back to the latest commit.
 4) Move from the main branch to the secondary branch.
 
