@@ -8,9 +8,7 @@ Solo exercises:
 1) Clone into this repository.
 2) Revert your local copy to following commit (*Correct tasks two*).
 ![](gifs/takingitback.gif)
-
 3) Revert back to the latest commit.
-4) Move from the main branch to the secondary branch.
 
 Team exercises:
 1) Clone into your partners repository.
