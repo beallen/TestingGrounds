@@ -17,6 +17,7 @@ Team exercises:
 4) Pull your repository and share the changes your partner made.
 
 Merge conflict exercises:
+![](gifs/sogoodtohate.gif)
 1) Both partners should change the readme in one repository at different lines and make a commit.
 2) Identify how the repository is affected.
 3) Both partners should change the readme in one repository at the same location (same line and word) and make acommit.
