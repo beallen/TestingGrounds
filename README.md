@@ -8,15 +8,15 @@ Solo exercises:
 1) Clone into this repository.
 2) Revert your local copy to following commit (*Correct tasks two*).
 ![](gifs/takingitback.gif)
-
 3) Revert back to the latest commit.
-4) Move from the main branch to the secondary branch.
 
 Team exercises:
 1) Clone into your partners repository.
 2) Add your partner as a collaborator to your repository through GitHub.
 3) Make a change to their readme file, then commit/pull/push the changes.
 4) Pull your repository and share the changes your partner made.
+
+![](gifs/sogoodtohate.gif)
 
 Merge conflict exercises:
 1) Both partners should change the readme in one repository at different lines and make a commit.
