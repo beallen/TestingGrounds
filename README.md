@@ -24,5 +24,7 @@ Merge conflict exercises:
 3) Both partners should change the readme in one repository at the same location (same line and word) and make acommit.
 4) Identify how the repository is affected.
 
+Marcus would like to add this line. 
+
 
 
